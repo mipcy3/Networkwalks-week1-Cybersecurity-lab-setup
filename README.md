@@ -1,4 +1,4 @@
-# Networkwalks-week1-Cybersecurity-lab-setup
+# Networkwalks-B084-week1-Cybersecurity-lab-setup
 ## Project Information
 **Submitted By:** David Ayomipo Gege
 * **Milestone Objective:** Deploy an isolated virtual network environment using Oracle VM VirtualBox and configure a Kali Linux virtual machine with a permanent manual static IP address architecture.
